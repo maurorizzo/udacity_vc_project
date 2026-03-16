@@ -41,7 +41,7 @@ def load_data(city, month, day):
         df - Pandas DataFrame containing city data filtered by month and day
         adding content
     """
-
+  
 
     return df
 
@@ -49,7 +49,7 @@ def load_data(city, month, day):
 def time_stats(df):
     """Displays statistics on the most frequent times of travel."""
 
-    print('\nCalculating The Most Frequent Times of Travel...\n')
+    print('\nCalculating The Most Frequent Times of Travel please wait result...\n')
     start_time = time.time()
 
     # display the most common month
