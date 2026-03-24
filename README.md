@@ -45,7 +45,7 @@ pip install pandas numpy
 ```
 
 ---
-
+Make sure to consider your approved toolset for company compliance and tools distribution and installation.
 ### 4. Run the program
 
 Execute the script in your terminal:
