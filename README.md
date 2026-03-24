@@ -70,15 +70,15 @@ The script calculates several statistics about bikeshare usage.
 
 ### Travel Time Statistics
 
-- Most common month
-- Most common day of week
-- Most common start hour
+-   Most common month
+-   Most common day of week
+-   Most common start hour
 
 ### Station Statistics
 
-- Most frequently used start station
-- Most frequently used end station
-- Most common combination of start and end stations
+-   Most frequently used start station
+-   Most frequently used end station
+-   Most common combination of start and end stations
 
 ### Trip Duration
 
@@ -87,11 +87,11 @@ The script calculates several statistics about bikeshare usage.
 
 ### User Statistics
 
-- Counts of user types
-- Counts of gender
-- Earliest birth year
-- Most recent birth year
-- Most common birth year
+-   Counts of user types
+-   Counts of gender
+-   Earliest birth year
+-   Most recent birth year
+-   Most common birth year
 
 ---
 
